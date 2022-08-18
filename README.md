@@ -1,0 +1,4 @@
+- Write a program to search an element 2 and 9 in the given array using Binary Search.
+- Write a program to sort a given array using Counting Sort.
+- Write a program to sort a given array using Insertion Sort.
+- Write a program to sort a given array using Selection Sort.
